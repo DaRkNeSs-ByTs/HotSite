@@ -9,7 +9,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #333;
   line-height: 1.6;
-  background-color: #e2d8d8;
+  background-color: #dfd6d6;
 }
 
 /* Navegação */
@@ -46,8 +46,8 @@ nav ul li a:hover {
 
 /* Header - Homepage */
 header {
-  background: url('https://img.freepik.com/fotos-premium/vista-da-paisagem-natural-da-bela-e-paradisiaca-praia_63047-1719.jpg') no-repeat center/cover;
-  height: 50vh;
+  background: url('https://static.vecteezy.com/ti/fotos-gratis/p2/50686459-maldivas-praias-topo-visao-lindo-fundo-gratis-foto.jpg') no-repeat center/cover;
+  height: 500px;
   display: flex;
   flex-direction: column;
   justify-content: center;
